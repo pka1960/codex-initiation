@@ -6,18 +6,18 @@ _(replace-me: One-line description of the exercise)_
 
 - **Who is this for**: Pour moi
 - **What you'll learn**: Just a surprise
-- **What you'll build**: (replace-me: Description of what the learner will create)
+- **What you'll build**: i do not know
 - **Prerequisites**:
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
+  - I have no experience
+  - indeed
 
 - **How long**: This exercise takes less than (replace-me: estimated time) to complete.
 
 In this exercise, you will:
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
+1.Learning objective step #1
+1. Learning objective step #2
+1. Learning objective step #N
 
 
 ### How to start this exercise
