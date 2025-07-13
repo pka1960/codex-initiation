@@ -1,4 +1,4 @@
-# (replace-me: Exercise title)
+# Formation GitHub (enfin on espère)
 
 _(replace-me: One-line description of the exercise)_
 
