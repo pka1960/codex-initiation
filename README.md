@@ -1,11 +1,11 @@
-# (replace-me: Exercise title)
+# Exercice d'initiation à GitHub
 
 _(replace-me: One-line description of the exercise)_
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
+- **Who is this for**: Pour moi
+- **What you'll learn**: Just a surprise
 - **What you'll build**: (replace-me: Description of what the learner will create)
 - **Prerequisites**:
   - (replace-me: Prerequisite skill/exercise)
